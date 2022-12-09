@@ -1,0 +1,13 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/felixyeungdev/adventofcode.git",
+  "author": "Felix Yeung <19355619+felixyeungdev@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^9.4.1",
+    "zod": "^3.19.1"
+  }
+}
