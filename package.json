@@ -8,6 +8,7 @@
   "dependencies": {
     "chalk": "^5.2.0",
     "commander": "^9.4.1",
+    "tsx": "^4.6.2",
     "zod": "^3.19.1"
   }
 }
